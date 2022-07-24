@@ -20,11 +20,11 @@
         - behavior
 
     - Customer Object
-        - <b>can have</b> 
+        - <b>can have - States</b> 
             - email 
             - phone number
 
-        - <b>can perform the acts of</b>
+        - <b>can perform the acts of - Behavior</b>
             - placing order
             - cancel order
         
