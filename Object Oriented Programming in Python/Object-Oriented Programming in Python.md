@@ -28,7 +28,7 @@
             - placing order
             - cancel order
         
-    <b><u>Example</u></b>
+    <b><u>Example</u></b><br>
     A button having a label (state) and pressing it can trigger an event (behavior). 
     
 2. Classes
@@ -38,7 +38,7 @@
 
 For an object, <b>State</b> and <b>Behavior</b> are bundelled together. 
 
-A Customer Object has:
+- A Customer Object has:
     - data
     - actions
 
