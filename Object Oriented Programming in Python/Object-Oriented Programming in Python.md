@@ -258,9 +258,6 @@ Instances of a subclass are also instances of the parent class.
 
 Class attributes CAN be inherited, and the value of class attributes CAN be overwritten in the child class
 
-
-## Polymorphism
-
 # Chapter 3
 
 ## Operator Overloading
