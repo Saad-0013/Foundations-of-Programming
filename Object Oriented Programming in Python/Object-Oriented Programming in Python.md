@@ -604,7 +604,7 @@ cust = Customer('Belinda Lutz', 2000)
 cust.balance = 3000
 print(cust.balance)
 ```
-Other Property attributes:
+Other Property attributes: <br>
     - ```@attr.setter``` <br>
     - ```@attr.getter``` <br>
     - ```@attr.deleter``` <br>
