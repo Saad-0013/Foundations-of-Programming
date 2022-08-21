@@ -605,9 +605,9 @@ cust.balance = 3000
 print(cust.balance)
 ```
 Other Property attributes:
-    - ```@attr.setter```
-    - ```@attr.getter```
-    - ```@attr.deleter```
+    - ```@attr.setter``` <br>
+    - ```@attr.getter``` <br>
+    - ```@attr.deleter``` <br>
 
 # Good coding practices
 - Use camel case for class names
